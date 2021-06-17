@@ -1,0 +1,25 @@
+{
+  "name": "usercarddarkmode",
+  "version": "1.0.0",
+  "description": "User card with Light and Dark mode toggle",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/albertoalejandro10/userCard.git"
+  },
+  "keywords": [
+    "user",
+    "card",
+    "toggle",
+    "darkmode"
+  ],
+  "author": "AlbertoAlejandro10",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/albertoalejandro10/userCard/issues"
+  },
+  "homepage": "https://github.com/albertoalejandro10/userCard#readme"
+}
